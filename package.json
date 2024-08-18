@@ -1,0 +1,15 @@
+{
+    "name": "Esivana",
+    "version": "1.0.0",
+    "description": "A simple profanity filter library",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "mocha"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "mocha": "^10.0.0"
+    },
+    "author": "TsilavinaZH",
+    "license": "ISC"
+  }
